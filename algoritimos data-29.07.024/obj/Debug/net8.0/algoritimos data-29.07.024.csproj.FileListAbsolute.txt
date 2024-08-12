@@ -1,0 +1,14 @@
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\bin\Debug\net8.0\algoritimos data-29.07.024.exe
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\bin\Debug\net8.0\algoritimos data-29.07.024.deps.json
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\bin\Debug\net8.0\algoritimos data-29.07.024.runtimeconfig.json
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\bin\Debug\net8.0\algoritimos data-29.07.024.dll
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\bin\Debug\net8.0\algoritimos data-29.07.024.pdb
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\obj\Debug\net8.0\algoritimos data-29.07.024.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\obj\Debug\net8.0\algoritimos data-29.07.024.AssemblyInfoInputs.cache
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\obj\Debug\net8.0\algoritimos data-29.07.024.AssemblyInfo.cs
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\obj\Debug\net8.0\algoritimos data-29.07.024.csproj.CoreCompileInputs.cache
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\obj\Debug\net8.0\algoritimos data-29.07.024.dll
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\obj\Debug\net8.0\refint\algoritimos data-29.07.024.dll
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\obj\Debug\net8.0\algoritimos data-29.07.024.pdb
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\obj\Debug\net8.0\algoritimos data-29.07.024.genruntimeconfig.cache
+D:\Users\20241170150054\Desktop\algoritimos\algoritimos data-29.07.024\obj\Debug\net8.0\ref\algoritimos data-29.07.024.dll

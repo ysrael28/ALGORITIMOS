@@ -1,0 +1,14 @@
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\bin\Debug\net8.0\algoritimos PJD1M 54.exe
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\bin\Debug\net8.0\algoritimos PJD1M 54.deps.json
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\bin\Debug\net8.0\algoritimos PJD1M 54.runtimeconfig.json
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\bin\Debug\net8.0\algoritimos PJD1M 54.dll
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\bin\Debug\net8.0\algoritimos PJD1M 54.pdb
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\obj\Debug\net8.0\algoritimos PJD1M 54.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\obj\Debug\net8.0\algoritimos PJD1M 54.AssemblyInfoInputs.cache
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\obj\Debug\net8.0\algoritimos PJD1M 54.AssemblyInfo.cs
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\obj\Debug\net8.0\algoritimos PJD1M 54.csproj.CoreCompileInputs.cache
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\obj\Debug\net8.0\algoritimos PJD1M 54.dll
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\obj\Debug\net8.0\refint\algoritimos PJD1M 54.dll
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\obj\Debug\net8.0\algoritimos PJD1M 54.pdb
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\obj\Debug\net8.0\algoritimos PJD1M 54.genruntimeconfig.cache
+D:\Users\20241170150054\Desktop\algoritimos PJD1M 54\obj\Debug\net8.0\ref\algoritimos PJD1M 54.dll
